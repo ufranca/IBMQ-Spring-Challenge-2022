@@ -1,5 +1,6 @@
 # IBM Quantum Spring Challenge 2022
 
+Notebooks with solutions for the IBM Quantum Spring Challenge 2022.
 
 * <a href="https://research.ibm.com/blog/quantum-spring-challenge-2022">Description of the challenge</a>.
 * <a href="https://challenges.quantum-computing.ibm.com/spring-2022">Event page</a> (requires IBMid).
